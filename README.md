@@ -1,6 +1,7 @@
-# quera__unitConverteri
+# quera__card-memory-game
 
-A few programming questions from the [qurea](https://quera.ir/contest/assignments/32012/problems/107346)
+
+A few programming questions from the [qurea](https://quera.ir/problemset/109569/)
 
 
 ## How to Install  Project
